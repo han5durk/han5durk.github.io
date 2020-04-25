@@ -99,8 +99,8 @@
     font-family: Montserrat;
     font-style: normal;
     font-weight: 600;
-    font-size: 52px;
-    line-height: 71px;
+    font-size: 48px;
+    line-height: 68px;
 
     color: #253238;
 }
@@ -297,8 +297,8 @@
 
     .name {
         text-align: center;
-        font-size: 40px;
-        line-height: 45px;
+        font-size: 37px;
+        line-height: 42px;
 
         color: #E93295;
     }

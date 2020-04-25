@@ -89,8 +89,8 @@
     font-family: Montserrat;
     font-style: normal;
     font-weight: 600;
-    font-size: 64px;
-    line-height: 71px;
+    font-size: 60px;
+    line-height: 65px;
 
     color: #253238;
 }
@@ -109,7 +109,7 @@
     font-family: Montserrat;
     font-style: normal;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 20px;
 
     color: #253238;
 }
@@ -319,8 +319,8 @@
     .desc {
         margin-top: 2vh;
         text-align: center;
-        font-size: 25px;
-        line-height: 25px;
+        font-size: 16px;
+        line-height: 21px;
     }
 
     .button-container {

@@ -35,7 +35,6 @@ nav {
     display: flex;
     margin-top: 7rem;
     justify-content: center;
-    /* background-color: aquamarine; */
 }
 
 .hello .wel {
@@ -193,8 +192,6 @@ ul {
 }
 
 .skepta {
-    /* background-color: darksalmon; */
-    /* height: 90vh; */
     position: absolute;
     display: flex;
     bottom: 0;
@@ -300,7 +297,6 @@ ul {
 
     .design {
         display: flex;
-        background-color: darksalmon;
         align-items: flex-end;
         position: absolute;
         top: auto;

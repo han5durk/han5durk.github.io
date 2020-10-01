@@ -80,6 +80,7 @@ a {
 
 a:hover {
     opacity: 0.5;
+    color: #2484c6;
 }
 
 .buttons a {
@@ -95,6 +96,7 @@ a:hover {
 
 .buttons a:hover {
     opacity: 0.5;
+    color: #2484c6;
 }
 
 ul {

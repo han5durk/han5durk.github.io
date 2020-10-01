@@ -29,7 +29,7 @@ nav {
 
 .welcome {
     /* height: 85vh; */
-    color: #b22222;
+    color: #2484c6;
     font-family: 'Oxygen', sans-serif;
     text-align: left;
     display: flex;
@@ -46,7 +46,7 @@ nav {
 }
 
 .hello .wel b {
-    color: firebrick;
+    color: #2484c6;
 }
 
 .hello .name {
@@ -211,7 +211,7 @@ ul {
     }
 
     .welcome {
-        color: firebrick;
+        color: #2484c6;
         font-family: 'Oxygen', sans-serif;
         text-align: left;
         display: flex;
@@ -228,7 +228,7 @@ ul {
     }
 
     .hello .wel b {
-        color: firebrick;
+        color: #2484c6;
     }
 
     .hello .name {
